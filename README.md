@@ -10,7 +10,7 @@
 
 You can find the test suite for this application in the `spec/models` directory and run them with the command: `bundle exec rspec`. This lab tests to ensure that your app can create records and that it has an instance method that can be called on the model.
 
-## Instructions
+## Instructionsd
 
 * Create a table by hand named `students` that has the columns: `first_name` and `last_name` – this should be accomplished by creating a new database migration
 * Create a model for the students' table that inherits from ActiveRecord::Base
